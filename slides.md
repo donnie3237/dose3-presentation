@@ -28,7 +28,7 @@ mdc: true
   <button @click="$slidev.nav.openInEditor()" title="Open in Editor" class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
     <carbon:edit />
   </button>
-  <a href="https://github.com/slidevjs/slidev" target="_blank" alt="GitHub" title="Open in GitHub"
+  <a href="https://github.com/donnie3237" target="_blank" alt="GitHub" title="Open in GitHub"
     class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
     <carbon-logo-github />
   </a>
@@ -55,17 +55,17 @@ transition: slide-left
 # What is dose3
 
 dose3 is best starter kit to make your project faster and basic standardof code
-- 📝 **Template** - focus on the content with Markdown, and then style them later
-- 🎨 **Frommatter** - theme can be shared and used with npm packages
-- 🧑‍💻 **Dev fast** - code highlighting, live coding with autocompletion
-- 🤹 **Easy to use** - embedding Vue components to enhance your expressions
-- 📤 **Minimize** - export into PDF, PNGs, or even a hostable SPA
-- 🛠 **Testing** - anything possible on a webpage
+- 📝 **Template** - yeah we are template with cool framework
+- 🎨 **Frommatter** - frommat your code easier with biomejs
+- 🧑‍💻 **Dev fast** - make project fast for freelancer
+- 🤹 **Easy to use** - dose3 is easy to use with clean documentation
+- 📤 **Minimize** - use the lightweight and fast cli in your local storage
+- 🛠 **Testing** - testing your app with vitest 
 
 <br>
 <br>
 
-Read more about [dose3](https://dose3.dxse)
+Read more about [dose3](https://dose3.dxse.site)
 
 <!--
 You can have `style` tag in markdown to override the style for the current page.
@@ -112,12 +112,13 @@ transition: slide-left
 
 |     |     |
 | --- | --- |
-| Vitest | for react deverloper base |
-| Biome | for vue deverloper |
-| Prisma | basic api in javascript |
-| Mongoose | fast api in javascript code  |
-| Sqlx | fast api in javascript code  |
-| Zustand | for rendering framework |
+| Vitest | unit test framework for your web app |
+| Biome | frommatter and lint in one lib |
+| Prisma | ORM for your SQL database protect SQL injection |
+| Mongoose | easy to manage your database and server  |
+| Sqlx | ORM for rust lang  |
+| Zustand | Global state in your client side |
+| TailwindCSS | write your style in class propities |
 
 ---
 class: px-20
@@ -125,11 +126,11 @@ class: px-20
 
 # Document
 
-Slidev comes with powerful theming support. Themes can provide styles, layouts, components, or even configurations for tools. Switching between themes by just **one edit** in your frontmatter:
+the document make with astro starlightjs lets read the [docs](https://dose3.dxse.site/).
 
-<div><img src="/dose3.png" class="h-[50vh]"/></div>
+<div><img src="/dose3.png" class="h-[50vh] mx-auto"/></div>
 
-read the [docs](https://dose3.dxse.site/).
+
 
 ---
 class: px-20
@@ -176,4 +177,4 @@ class: text-center
 
 # Learn More
 
-[Documentations](https://sli.dev) · [GitHub](https://github.com/slidevjs/slidev) · [Showcases](https://sli.dev/showcases.html)
+[Documentations](https://dose3.dxse.site) · [GitHub](https://github.com/slidevjs/slidev) 
